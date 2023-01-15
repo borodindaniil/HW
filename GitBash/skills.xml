@@ -1,0 +1,19 @@
+<skills>
+    <soft_skills>
+        <skill>self management</skill>
+        <skill>time management</skill>
+        <skill>communication skills</skill>
+        <skill>teamwork</skill>
+        <skill>critical thinking</skill>
+        <skill>problem-solving</skill>
+    </soft_skills>
+    <hard_skills>
+        <skill>working with documentation</skill>
+        <skill>postman</skill>
+        <skill>charles</skill>
+        <skill>gitbash</skill>
+        <skill>github</skill>
+        <skill>sql</skill>
+        <skill>dev tools</skill>
+    </hard_skills>
+</skills>
