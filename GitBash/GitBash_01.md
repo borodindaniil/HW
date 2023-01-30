@@ -63,6 +63,7 @@ curl http://162.55.220.72:5005/terminal-hw-request
 
 ## 22) Напишите скрипт
 touch myscript ; vim myscript 
+```
 #!/bin/bash
 #This is a comment
 cd example_4
@@ -72,3 +73,4 @@ touch text1.txt text2.txt text3.txt info1.json info2.json
 mkdir test1 test2 test3
 ls -la
 mv text1.txt text2.txt test1
+```
